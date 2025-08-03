@@ -1,3 +1,31 @@
+<p align="center">
+  <img src="https://nas.io/static/media/logo-nasio.a6b3e57….svg" width="80"/><br/>
+  <b>Awesome n8n Templates</b><br/>
+  📚 Kumpulan template n8n otomatisasi berkualitas — dikurasi & disempurnakan untuk bisnis Indonesia oleh <b>PromptLite</b>.
+  <br/><br/>
+  <a href="https://nas.io/otomasi-bisnis-id/home"><img src="https://img.shields.io/badge/Join%20Starter%20Community-Rp%2097k/bln-green?style=flat-square"/></a>
+  <a href="https://nas.io/automation-pro-id/home"><img src="https://img.shields.io/badge/Pro%20Community%20Support-Rp%20297k/bln-blue?style=flat-square"/></a>
+  <br/><br/>
+  <img src="https://img.shields.io/badge/Forked%20From-enescingoz/awesome--n8n--templates-blue?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Made%20for-Indonesia-red?style=flat-square"/>
+</p>
+
+## 📂 Repository Category
+
+**Category**: `Workflow Repository`  
+**Part of**: 🚀 [PromptLite Automation Hub](https://github.com/promptlite/promptlite-automation-hub)  
+**Subcategory**: `General n8n Workflows`
+
+## ✨ PromptLite Enhancements 🇮🇩
+
+Repository ini merupakan **fork dan perluasan** dari [original project oleh enescingoz](https://github.com/enescingoz/awesome-n8n-templates) yang luar biasa.
+
+✅ Diterjemahkan & disesuaikan untuk konteks bisnis Indonesia  
+✅ Kategori workflows untuk UMKM, e-commerce lokal, dan payment gateway lokal  
+✅ Panduan setup lengkap dalam Bahasa Indonesia  
+✅ Dukungan WhatsApp, Tokopedia, Shopee, Gojek, OVO, dll  
+✅ Dokumentasi dan tutorial tambahan  
+
 # n8n_automations
 This repository contains a collection of n8n automation templates sourced from the internet. These templates are designed to help automate a wide range of tasks and workflows using [n8n](https://n8n.partnerlinks.io/h1pwwf5m4toe), making it easier for users to discover and use ready-made automations for various platforms and services.
 
