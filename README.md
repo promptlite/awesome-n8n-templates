@@ -1,14 +1,38 @@
-<p align="center">
-  <img src="https://nas.io/static/media/logo-nasio.a6b3e57….svg" width="80"/><br/>
+<div align="center">
+
+# 🔄 PromptLite Enhanced Fork – awesome-n8n-templates
   <b>Awesome n8n Templates</b><br/>
   📚 Kumpulan template n8n otomatisasi berkualitas — dikurasi & disempurnakan untuk bisnis Indonesia oleh <b>PromptLite</b>.
-  <br/><br/>
+  
+🗂️ **Repository Category**: `Workflow Repositories`  
+🚀 **Forked from**: [enescingoz/awesome-n8n-templates](https://github.com/enescingoz/awesome-n8n-templates)  
+🇮🇩 **Curated for Indonesian Businesses by PromptLite**
+
+</div>
+
+<p align="center">
   <a href="https://nas.io/otomasi-bisnis-id/home"><img src="https://img.shields.io/badge/Join%20Starter%20Community-Rp%2097k/bln-green?style=flat-square"/></a>
   <a href="https://nas.io/automation-pro-id/home"><img src="https://img.shields.io/badge/Pro%20Community%20Support-Rp%20297k/bln-blue?style=flat-square"/></a>
-  <br/><br/>
+  <br/>
   <img src="https://img.shields.io/badge/Forked%20From-enescingoz/awesome--n8n--templates-blue?style=flat-square"/>
   <img src="https://img.shields.io/badge/Made%20for-Indonesia-red?style=flat-square"/>
 </p>
+
+---
+
+This is an enhanced and localized fork of the original `awesome-n8n-templates` repository.  
+It has been categorized as part of our **Workflow Repositories** group under the [PromptLite Automation Hub](https://github.com/promptlite/promptlite-automation-hub).
+
+### ✨ Enhancements by PromptLite:
+- 🇮🇩 Indonesian documentation and use cases
+- 💼 Business-ready workflows for WhatsApp, e-commerce, and GoPay
+- 📖 Integrated links to [Starter](https://nas.io/otomasi-bisnis-id) and [Pro](https://nas.io/automation-pro-id) communities
+
+For a categorized index of all our forks and templates, visit the  
+➡️ [PromptLite Automation Hub](https://github.com/promptlite/promptlite-automation-hub)
+
+---
+
 
 ## 📂 Repository Category
 
